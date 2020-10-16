@@ -1,2 +1,2 @@
 # Rubik-s-cube-simulator
-Simulation of any n-side rubik's cube
+Simulation of any n-sided rubik's cube
